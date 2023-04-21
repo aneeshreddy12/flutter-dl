@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "965223342819",
+    "project_id": "flutter-sound-of-ai",
+    "storage_bucket": "flutter-sound-of-ai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965223342819:android:df8f0dd35293b624acdbd6",
+        "android_client_info": {
+          "package_name": "com.example.u_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965223342819-vr220kgue0u6vvj3752m20fq0r5b3l25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7W6Iu7T0R7etYoY9mktjbof3dQaQ6vTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965223342819-vr220kgue0u6vvj3752m20fq0r5b3l25.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
